@@ -71,8 +71,11 @@ Before AI, I spent a good amount of time on the backend: building APIs, auth flo
 ## GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshita-kode&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-kode&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshita-kode&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshita-kode&theme=tokyonight" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshita-kode&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
