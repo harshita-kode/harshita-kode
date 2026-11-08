@@ -1,18 +1,85 @@
-## Hi, I'm Harshita👋
-<br>I'm a CS undergrad who enjoys building backend systems, cloud projects, and developer tools. I like taking an idea from scratch and turning it into something that actually works. <br>I mostly work with Node.js, Express.js, JavaScript, Java and MySQL. I enjoy competitive programming and have solved 250+ problems on LeetCode. 💻<br>I'm always learning — whether it's diving deeper into how systems work under the hood, picking up new tools, or exploring areas I haven't touched before. I like staying curious and building as I learn. 🌱<br><br>Fun fact — I love cats. 🐱
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Harshita%20Kode&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Systems%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=16" width="100%"/>
 
+<p align="center">
+  <a href="https://github.com/harshita-kode">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+AI+systems+that+explain+themselves;Teaching+machines+to+read+lips+and+see+scenes;Turning+models+into+products+people+can+use;Currently+in+Singapore" alt="Typing intro"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshita-kode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitakode@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2210030019&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=2210030019&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2210030019&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/harshita-kode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:harshitakode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=2210030019&icon=3&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Hi there 👋
+
+I'm an **AI and machine learning engineer** who likes building systems that are smart *and* understandable.
+
+Most of my work lives where models meet the real world: computer vision that describes what it sees, security systems that explain why they raised an alarm, and recommendation engines that work around real budgets and real constraints.
+
+Before AI, I spent a good amount of time on the backend: building APIs, auth flows and even a mail server from raw sockets. That background shapes how I build ML today. I don't stop at the notebook. I like taking a model all the way to something people can actually use.
+
+---
+
+## Things I've built that you might find interesting
+
+> **I taught a model to read lips.**
+> My first-author paper at **IEEE DLCV 2025** compares CNNs, LSTMs and Transformers for visual speech recognition, figuring out which architecture actually holds up in the real world.
+
+> **I built an assistant that describes what it sees.**
+> **Echo-Vision** uses BLIP-2 and PyTorch to interpret complex scenes and turn them into natural-language descriptions, served through a FastAPI inference pipeline.
+
+> **I'm teaching a system to catch attacks it has never seen before.**
+> My **Hybrid Network Intrusion Detection** project pairs ensemble learning with Isolation Forest to flag both known and unknown threats, and explains *why* each alert was raised.
+
+> **I'm building a meal planner that knows grocery prices.**
+> The **Intelligent Adaptive Meal Planner** balances nutrition, dietary needs and budget, using NLP and semantic similarity to match recipes with live Singapore grocery prices.
+
+> **I wrote an email server from scratch, just to see how email really works.**
+> **NodeMail** handles raw TCP sockets, DNS MX lookup, RSA-based DKIM signing and spam filtering.
+
+---
+
+## Right now I'm
+
+- Exploring explainable AI and how to make model decisions easier to trust
+- Going deeper into multimodal models that combine vision and language
+- Always up for a good problem (250+ solved on LeetCode)
+
+---
+
+## Tools I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,java,js,ts&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,react,tailwind,aws,git,postman&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLIP--2-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Explainable_AI-B8860B?style=flat-square"/>
+</p>
+
+---
+
+## GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshita-kode&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-kode&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Let's talk</b> about AI systems, computer vision, explainable ML, or anything you're building.<br/>
+  And if you have a cat, I'd love to see a picture. 🐱
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
