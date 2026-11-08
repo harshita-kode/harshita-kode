@@ -71,11 +71,11 @@ Before AI, I spent a good amount of time on the backend: building APIs, auth flo
 ## GitHub at a glance
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshita-kode&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshita-kode&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshita-kode&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshita-kode&theme=github_dark" height="160"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshita-kode&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=harshita-kode&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=58A6FF&dates=8B949E&stroke=30363D"/>
 </p>
 
 ---
